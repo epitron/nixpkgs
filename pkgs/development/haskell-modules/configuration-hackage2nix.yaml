@@ -3219,6 +3219,7 @@ broken-packages:
   - bricks-rendering
   - bricks-syntax
   - brillig
+  - brittany
   - broadcast-chan
   - broadcast-chan-conduit
   - broadcast-chan-pipes
@@ -3254,6 +3255,7 @@ broken-packages:
   - Buster
   - buster-gtk
   - buster-network
+  - butcher
   - butter
   - butterflies
   - bv-sized
@@ -5205,6 +5207,7 @@ broken-packages:
   - happstack-state
   - happstack-util
   - happstack-yui
+  - happy-hour
   - happy-meta
   - happybara
   - happybara-webkit
@@ -6047,6 +6050,8 @@ broken-packages:
   - hw-json
   - hw-json-lens
   - hw-json-simd
+  - hw-json-simple-cursor
+  - hw-json-standard-cursor
   - hw-packed-vector
   - hw-parser
   - hw-prim
@@ -7025,6 +7030,7 @@ broken-packages:
   - mmtl-base
   - moan
   - Mobile-Legends-Hack-Cheats
+  - mockazo
   - model
   - modelicaparser
   - modify-fasta
@@ -8375,6 +8381,7 @@ broken-packages:
   - ruin
   - ruler
   - ruler-core
+  - run-st
   - rungekutta
   - runmany
   - runtime-arbitrary
@@ -8555,6 +8562,7 @@ broken-packages:
   - servant-auth-token-leveldb
   - servant-auth-token-persistent
   - servant-auth-token-rocksdb
+  - servant-cli
   - servant-client-namedargs
   - servant-csharp
   - servant-db
@@ -8752,6 +8760,7 @@ broken-packages:
   - slot-lambda
   - sloth
   - slug
+  - small-bytearray-builder
   - smallarray
   - smallcaps
   - smallcheck-laws
